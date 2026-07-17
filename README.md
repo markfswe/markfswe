@@ -1,4 +1,4 @@
-An early-start self-taught software engineer born [in Siberia](https://en.wikipedia.org/wiki/Tyumen) in November 2004, with a GitHub profile dating from [April 2019](https://github.com/markfswe?tab=overview&from=2019-04-01&to=2019-04-30). By the age of 22, accumulated six years of hands-on software engineering experience, primarily building for [products and startups](https://linkedin.com/in/markswe), while contributing to open-source projects along the way.
+Born in November 2004, Mark is an early-start self-taught software engineer born [in Siberia](https://en.wikipedia.org/wiki/Tyumen), with a GitHub profile dating from [April 2019](https://github.com/markfswe?tab=overview&from=2019-04-01&to=2019-04-30). By the age of 22, accumulated six years of hands-on software engineering experience, primarily building for [products and startups](https://linkedin.com/in/markswe), while contributing to open-source projects along the way.
 
 - Nomading since 17 with 4 years abroad.
 - Professional in building accessible solid interfaces.
