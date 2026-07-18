@@ -7,7 +7,7 @@ Born in November 2004, Mark is an early-start self-taught software engineer born
 - 120+ issues across Github repos created with meaning
 - Nomading since 17 with 4 years abroad
 
-Feeel free to Join my Discord multilingual community to learn Github, code and more:  
+Feel free to Join my Discord community to learn Github, code and more:  
 https://discord.gg/mwdwZYB2Yt (25 invites)
 
 Last updated: Sat, 18 Jul 2026
